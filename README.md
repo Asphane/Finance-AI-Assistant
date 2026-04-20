@@ -1,29 +1,4 @@
 
-
-```markdown
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="50" height="50" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="50" height="50" alt="FastAPI" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" width="50" height="50" alt="Supabase" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="PostgreSQL" />
-
-  <h1 align="center">Finance AI Assistant 💸🤖</h1>
-
-  <p align="center">
-    <strong>Your intelligent, secure, and automated personal finance manager powered by Google Gemini and Supabase.</strong>
-  </p>
-
-  <p align="center">
-    <a href="#features">Features</a> •
-    <a href="#tech-stack">Tech Stack</a> •
-    <a href="#project-architecture">Architecture</a> •
-    <a href="#getting-started">Getting Started</a> •
-    <a href="#roadmap">Roadmap</a>
-  </p>
-</div>
-
----
-
 ## ✨ Overview
 
 **Finance AI Assistant** is a cloud-native, multi-user personal finance platform that leverages the power of Artificial Intelligence to make managing money completely frictionless. 
