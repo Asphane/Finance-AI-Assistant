@@ -1,0 +1,30 @@
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Node
+node_modules/
+.npm/
+
+# Next.js
+.next/
+out/
+build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db

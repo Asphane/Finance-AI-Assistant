@@ -1,0 +1,9 @@
+Future Improvements for Finance AI Assistant:
+
+1. Update Telegram Bot for Multi-User Auth: Refactor `bot.py` to prompt users for their email/password (or associate their Telegram Chat ID with their Supabase User ID) so they can use the bot securely with the new cloud backend.
+2. Full Google OAuth Integration: Set up Google Cloud Console credentials to re-enable the "Sign in with Google" button in the frontend for smoother user onboarding.
+3. Receipt Scanning (OCR): Use gemini-2.5-flash vision capabilities in the Telegram bot to accept images of physical receipts and automatically extract the total, date, and category.
+4. Budget Limits & Alerts: Set hard caps for specific categories (e.g., max ₹10,000 on Food) and trigger automatic Telegram bot warnings when spending reaches 80% of the budget.
+5. Recurring Subscriptions Engine: Add a cron job to automatically log known recurring bills (like rent or Netflix) on a specific day of the month.
+6. Export / Data Portability: Add a feature to download the entire Supabase ledger into a CSV or Excel file for backups or tax purposes.
+7. Multi-Currency Support: Allow the AI to detect foreign currencies and use a live exchange rate API to automatically convert and log the expense in the base currency (INR).
